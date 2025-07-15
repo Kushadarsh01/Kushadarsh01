@@ -2,7 +2,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/reshu-upadhyay-71537b340) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:upadhyayreshu726@gmail.com) [![Codolio](https://img.shields.io/badge/Codolio-default.svg)](https://codolio.com/profile/Reshu_Upadhyay)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarsh-kumar-kushwaha-7a49421ab/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kushadarsh01@gmail.com) [![Codolio](https://img.shields.io/badge/Codolio-default.svg)](https://codolio.com/profile/Kushadarsh_01)
 # 💻 Tech Stack:
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
